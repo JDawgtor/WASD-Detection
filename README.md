@@ -1,6 +1,15 @@
 # WASD-Detection
 Accurate WASD detection for Minecraft datapacks.
 
+## Download
+Download the latest version from **Releases**.
+
+#### Current version
+1.0
+
+#### Minecraft version
+Java Edition 1.19.2
+
 ## How to Use the Data pack
 
 The WASD detection works as an in-game *predicate* that can be accessed through /execute commands, and or player selectors.
@@ -31,10 +40,6 @@ Either of these will result in a message in chat saying "pressed w" when the pla
 **wasd:falling** = if the player moves downward
 
 **wasd:shift** = if the player presses SHIFT
-
-
-## Download
-Download the latest version from **Releases** over on the right side.
 
 ## Installation
 
