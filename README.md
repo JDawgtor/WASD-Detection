@@ -23,8 +23,9 @@ The WASD detection works as an in-game *predicate* that can be accessed through 
 ```
 Either of these will result in a message in chat saying "pressed w" when the player walks forward.
 
-#### List of preciates
+### List of preciates
 (All of these will have a prefix of `wasd:`)
+
 **wasd:w** = if the player walks forward
 
 **wasd:a** = if the player walks left
@@ -43,7 +44,7 @@ Either of these will result in a message in chat saying "pressed w" when the pla
 
 ## Installation
 
-#### Method 1 (pre-made world)
+#### Method 1 (Pre-made world)
 1. Unzip the file downloaded
 2. Copy the WASD Detection 1.19.2 folder
 3. Locate to your .minecraft/saves/\<worldname\>/datapacks
