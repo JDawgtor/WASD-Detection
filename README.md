@@ -12,6 +12,8 @@ Java Edition 1.19.2
 
 ## How to Use the Data pack
 
+(Full video explaination https://www.youtube.com/watch?v=DsjAlwNN2AQ)
+
 The WASD detection works as an in-game *predicate* that can be accessed through /execute commands, and or player selectors.
 
 ```
@@ -41,6 +43,23 @@ Either of these will result in a message in chat saying "pressed w" when the pla
 **wasd:falling** = if the player moves downward
 
 **wasd:shift** = if the player presses SHIFT
+
+### Lock the player's movement
+
+If you want to lock the player from moving you will need to run this command:
+```
+/execute as @a run function wasd:lock
+```
+This will lock all players at their current positions.
+
+If you want to lock the player at a specific location, then run this command:
+```
+/execute as @a postitioned \<XYZ\> rotated \<Y ROTATION\> \<X ROTATION\> run function wasd:lock
+```
+To unlock the players, run:
+```
+/execute as @a run function wasd:unlock
+```
 
 ## Installation
 
