@@ -5,6 +5,26 @@ Accurate WASD detection for Minecraft datapacks.
 
 The WASD detection works as an in-game *predicate* that can be accessed through /execute commands, and or player selectors.
 
+```
+/execute as @a if predicate wasd:w run say pressed w
+```
+
+```
+/execute as @a[predicate=wasd:w] run say pressed w
+```
+Either of these will result in a message in chat saying "pressed w" when the player walks forward.
+
+#### List of preciates
+(All of these will have a prefix of `wasd:`)
+**wasd:w** = if the player walks forward
+**wasd:a** = if the player walks left
+**wasd:s** = if the player walks right
+**wasd:d** = if the player walks backward
+**wasd:moving** = if the player pressed any of the four directions
+**wasd:space** = if the player moves upward
+**wasd:falling** = if the player moves downward
+**wasd:shift** = if the player presses SHIFT
+
 ## Download
 Download the latest version from **Releases** over on the right side.
 
