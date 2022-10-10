@@ -54,7 +54,7 @@ This will lock all players at their current positions.
 
 If you want to lock the player at a specific location, then run this command:
 ```
-/execute as @a postitioned \<XYZ\> rotated \<Y ROTATION\> \<X ROTATION\> run function wasd:lock
+/execute as @a postitioned <XYZ> rotated <Y ROTATION> <X ROTATION> run function wasd:lock
 ```
 To unlock the players, run:
 ```
