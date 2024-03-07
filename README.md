@@ -5,10 +5,10 @@ Accurate WASD detection for Minecraft datapacks.
 Download the latest version from **Releases**. Or click **Code** and Download ZIP.
 
 #### Current Datapack version
-1.1
+1.2
 
 #### Current Minecraft version
-Java Edition 1.20.1
+Java Edition 1.20.4
 
 ## How to Use the Data pack
 
@@ -65,7 +65,7 @@ To unlock the players, run:
 
 #### Method 1 (Pre-made world)
 1. Unzip the file downloaded
-2. Copy the WASD Detection 1.19.2 folder
+2. Copy the "WASD Detection" folder (not the RP pack, that is the resource pack)
 3. Locate to your .minecraft/saves/\<worldname\>/datapacks
 4. Paste the folder
 5. Enter your Minecraft world and type /reload
@@ -74,6 +74,6 @@ To unlock the players, run:
 #### Method 2 (Create new world)
 1. Unzip the file downloaded
 2. In the Create new world screen, click the "Datapacks" button
-3. Drag and drop the WASD Detection 1.19.2 folder
+3. Drag and drop the "WASD Detection" folder
 4. Apply the datapack
 5. Create new world
