@@ -56,6 +56,8 @@ If you want to lock the player at a specific location, then run this command:
 ```
 /execute as @a postitioned <XYZ> rotated <Y ROTATION> <X ROTATION> run function wasd:lock
 ```
+*Replacing `<XYZ>` with your desired coordinates, and `<Y ROTATION>` and `<X ROTATION>` with your desired rotations.
+
 To unlock the players, run:
 ```
 /execute as @a run function wasd:unlock
