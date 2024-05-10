@@ -1,0 +1,26 @@
+ {
+	"providers":
+		[
+            {
+            "type":"bitmap",
+            "file":"minecraft:custom/chars/fade.png",
+            "ascent":132,
+            "height":270,
+            "chars":["\uE000"]
+            },
+            {
+                "type":"bitmap",
+                "file":"minecraft:custom/chars/fade_2.png",
+                "ascent":132,
+                "height":270,
+                "chars":["\uE001"]
+                },
+            {
+                "type":"bitmap",
+                "file":"minecraft:custom/chars/gui_align.png",
+                "ascent":205,
+                "height":270,
+                "chars":["\uE400"]
+            }
+		]
+}

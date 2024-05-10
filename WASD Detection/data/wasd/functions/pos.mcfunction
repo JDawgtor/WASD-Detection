@@ -1,0 +1,1 @@
+execute at @a[tag=lock] as @e[type=marker,tag=.lock] if score @s lock_id = @p lock_id at @s run tp @p ~ ~ ~ ~ ~
