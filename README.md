@@ -2,7 +2,7 @@
 Accurate WASD detection for Minecraft datapacks.
 
 ## Download
-Download the latest version from **Releases**. Or click **Code** and Download ZIP.
+Download the latest version from **Releases**.
 
 #### Current Datapack version
 1.2
