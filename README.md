@@ -9,7 +9,7 @@ Download the latest zipped version from **Releases**. Or click **Code** and Down
 
 #### Compatible Minecraft versions
 Java Edition 1.20.2 - 1.20.6
-*(Versions of the pack for 1.19.2 and 1.20.1 also available in releases)*
+*(Versions of the pack for 1.20.1 and 1.19.2 also available in releases)*
 
 ## How to Use the Data pack
 
