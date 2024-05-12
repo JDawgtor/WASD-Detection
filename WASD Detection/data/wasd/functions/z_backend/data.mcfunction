@@ -47,6 +47,7 @@ scoreboard players operation @s down = .down wasd
 tag @s remove buffer
 
 ##4 reset player's position (if being teleported)
+team join wasd_lock @s[tag=lock]
 execute if entity @s[tag=lock] run function wasd:pos
 
 ##5

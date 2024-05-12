@@ -1,4 +1,5 @@
 tag @s add lock
+team join wasd_lock @s[tag=lock]
 tp @s ~ ~ ~ ~ ~
 attribute @s minecraft:generic.movement_speed base set 0.00108
 summon marker ~ ~ ~ {Tags:[".lock",".f_init"]}

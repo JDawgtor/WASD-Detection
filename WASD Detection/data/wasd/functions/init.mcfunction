@@ -15,6 +15,8 @@ scoreboard objectives add y_prev dummy
 scoreboard objectives add z_prev dummy
 
 scoreboard objectives add lock_id dummy
+team add wasd_lock
+team modify wasd_lock collisionRule never
 
 scoreboard objectives add sneak minecraft.custom:minecraft.sneak_time
 scoreboard objectives add shift dummy
