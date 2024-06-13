@@ -1,0 +1,11 @@
+{
+  "condition": "minecraft:value_check",
+  "value": {
+    "type": "minecraft:score",
+    "target": "this",
+    "score": "shift"
+  },
+  "range": {
+    "min": 1
+  }
+}

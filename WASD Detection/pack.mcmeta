@@ -1,26 +1,36 @@
 {
-    "pack": {
-      "pack_format": 41,
-      "supported_formats": {
-        "min_inclusive": 18,
-        "max_inclusive": 41
-      },
-      "description": [
-        [
-          {
-            "text": "Accurate ",
-            "color": "gray"
-          },
-          {
-            "text": "WASD",
-            "color": "aqua"
-          },
-          {
-            "text": " detection Datapack",
-            "color": "gray"
-          }
-        ]
+  "pack": {
+    "pack_format": 48,
+    "supported_formats": {
+      "min_inclusive": 18,
+      "max_inclusive": 48
+    },
+    "description": [
+      [
+        {
+          "text": "Accurate ",
+          "color": "gray"
+        },
+        {
+          "text": "WASD",
+          "color": "aqua"
+        },
+        {
+          "text": " detection Datapack",
+          "color": "gray"
+        }
       ]
-    }
+    ]
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": {
+          "min_inclusive": 18,
+          "max_inclusive": 41
+        },
+        "directory": "pre_1.21"
+      }
+    ]
   }
-  
+}

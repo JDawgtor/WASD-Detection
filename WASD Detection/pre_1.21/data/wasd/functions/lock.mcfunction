@@ -1,0 +1,1 @@
+execute unless entity @s[tag=lock] run function wasd:z_backend/lock
