@@ -5,10 +5,10 @@ Accurate WASD detection for Minecraft datapacks.
 Download the latest zipped version from **Releases**. Or click **Code** and Download ZIP for unpacked version.
 
 #### Latest Datapack version
-1.3
+1.4
 
 #### Compatible Minecraft versions
-Java Edition 1.20.2 - 1.20.6
+Java Edition 1.20.2 - 1.21
 *(Versions of the pack for 1.20.1 and 1.19.2 also available in releases)*
 
 ## How to Use the Data pack
